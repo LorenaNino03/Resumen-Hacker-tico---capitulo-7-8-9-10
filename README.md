@@ -61,4 +61,15 @@ El informe debe recomendar controles específicos para mitigar los riesgos encon
 - Microsegmentación: Aplicar políticas de seguridad a nivel de máquina virtual o contenedor, siguiendo un modelo de confianza cero (Zero Trust)
 
 # Capitulo 10 
+En el capitulo 10 pudimos observar que nos habla sobre los fundamentos de la programación y las herramientas esenciales utilizadas en las pruebas de penetración. Los bloques basicos entender y crear scripts para automatizar tareas.
+-Construcciones Lógicas
+-Estructuras de Datos
+-Modularidad y Objetos
+-Lenguajes Relevantes
+
+Como herramientas de Pruebas de Penetración
+El contenido se divide principalmente en herramientas para la recopilación de información:
+-DNS y Registro
+-Metadatos: FOCA y ExifTool 
+-Motores de Búsqueda y Automatización
 
